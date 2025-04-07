@@ -58,4 +58,5 @@ dependencies {
     debugImplementation(libs.androidx.ui.test.manifest)
     //maps
     implementation(libs.maps.compose)
+    implementation("com.google.android.gms:play-services-location:21.3.0")
 }
